@@ -1,16 +1,5 @@
+
 # openenv-code-debugger
----
-title: Code Debug Env
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
-license: mit
-tags:
-  - openenv
-  - code-debugging
-  - reinforcement-learning
----
 
 #  Code Debug Environment (OpenEnv)
 
